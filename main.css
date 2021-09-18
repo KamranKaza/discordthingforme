@@ -1422,7 +1422,7 @@
   width: 0;
 }
 :root .sidebar-dLM-kh .list-I3aHXn .item-PXvHYJ .roleDot-ZwSovK::before {
-  position: fixed;
+  position: absolute;
   border-radius: 5px;
   content: "";
   top: 0;
