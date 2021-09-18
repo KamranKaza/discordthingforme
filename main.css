@@ -1754,7 +1754,7 @@
 }
 :root #status-picker > .scroller-3BxosC .separator-2I32lJ, :root #status-picker > .scroller-3BxosC .status-1fhblQ,
 :root #status-picker > .scroller-3BxosC .description-2L932D {
-  display: none;
+  display: block;
 }
 :root .select-2fjwPw, :root .popout-VcNcHB {
   border: none;
