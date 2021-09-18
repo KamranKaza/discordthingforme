@@ -1422,7 +1422,7 @@
   width: 0;
 }
 :root .sidebar-dLM-kh .list-I3aHXn .item-PXvHYJ .roleDot-ZwSovK::before {
-  position: relative;
+  position: fixed;
   border-radius: 5px;
   content: "";
   top: 0;
@@ -1784,7 +1784,7 @@
 }
 :root .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp[aria-expanded=true] .wrapper-3t9DeA::before {
   content: "" !important;
-  position: relative;
+  position: absolute;
   top: -13px;
   left: -85px;
   width: 230px;
